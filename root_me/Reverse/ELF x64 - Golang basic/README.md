@@ -6,6 +6,6 @@ rax            0x81c0c1b1b23023b   584355362210251323
 
 rbx            0xc420094000        842351067136
 
-Write eazy c++ program that xor our arrays (solution.cpp).
+Write easy c++ program that xor our arrays (solution.cpp).
 
 Solution - ImLovingGoLand
